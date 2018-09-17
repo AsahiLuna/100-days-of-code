@@ -1,10 +1,11 @@
-# # 100DaysOfCode Log - 第一轮 - [你的名字]
+# #100DaysOfCode Log - Round 1 - [AsahiLunaSama]
 
-我的 #100DaysOfCode 挑战日志。 [2017年7月17日，周一] 开始。
+The log of my #100DaysOfCode challenge. Started on 2018/09/17.
 
-## 日志
+## Log
 
-### R1D1 （第一轮第一天）
-开始了天气app。在app的layout的草稿上工作，有点在 OpenWeather API http://www.example.com 卡住。
+### R1D1 
+The project was initialized, including unit tests and the E2E test framework, with a little documentation.
+Project: [resumes](https://github.com/alpgocc/resumes)
 
-### R1D2 （第一轮第二天）
+### R1D2
