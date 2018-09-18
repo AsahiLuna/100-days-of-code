@@ -1,5 +1,10 @@
 # I've joined the #100DaysOfCode Challenge
 
+## My Log
+
+[r1-log](r1-log.md)
+
+
 ## Contents
 
 * [Rules](rules.md)
