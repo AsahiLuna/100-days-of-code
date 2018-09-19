@@ -13,3 +13,7 @@ Project: [resumes](https://github.com/alpgocc/resumes)
 Update homepage and add the 'info' component, add some dependencies like the font-awesome and element UI. Also, I do the unit test for the 'info' module's logic part. But I do not add the CSS style yet, Maybe I will do it tonight or tomorrow.
 
 ![image][https://pbs.twimg.com/media/DnW6vv7UwAEAEJT.jpg]
+
+### R1D3
+Update info module CSS style, include container and socials icons, tomorrow I will add the i18n and start to write other modules.
+
