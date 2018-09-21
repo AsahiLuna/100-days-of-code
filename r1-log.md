@@ -17,3 +17,12 @@ Update homepage and add the 'info' component, add some dependencies like the fon
 ### R1D3
 Update info module CSS style, include container and socials icons, tomorrow I will add the i18n and start to write other modules.
 
+### R1D4
+I realized I couldn't just start writing new modules, and before that, I needed to solve the data problem.
+So I refactored my code and using Vuex to managing the data.
+Most of that hour was spent thinking, not write the code.
+I hope I can do better tomorrow.
+
+
+#R1D5
+I added a unit test and editing module, but it does not work through yet. Maybe I need to upgrade my Vue unit test skill, my unit test cases are not good enough. I decided to figure out how to write simply and useful unit test case with Vue this weekend.
